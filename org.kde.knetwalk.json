@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/libkdegames-18.08.0.tar.xz",
-                    "sha256": "e0bca02674c5e961db17e8225affc689c437ab78eabcd620a1e38ee7b1d583ca"
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
+                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
                 } 
             ]
         },
@@ -42,8 +42,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.08.0/src/knetwalk-18.08.0.tar.xz", 
-                    "sha256": "f2eb5e7d3c92a6d2d9534be0711aa46aa38d1299261d2382ce10370763efce13" 
+                    "url": "https://download.kde.org/stable/applications/18.12.0/src/knetwalk-18.12.0.tar.xz",
+                    "sha256": "11f7122112b22e5f542ae421e4bc67f1bebcb7092403566585231d4a2d3ff3dd"
                 },
                 {
                     "type": "file",
