@@ -1,7 +1,7 @@
 {
     "id": "org.kde.knetwalk",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "knetwalk",
     "rename-icon": "knetwalk",
@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 } 
             ]
         },
@@ -31,17 +31,10 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/knetwalk-18.12.0.tar.xz",
-                    "sha256": "11f7122112b22e5f542ae421e4bc67f1bebcb7092403566585231d4a2d3ff3dd"
-                },
-                {
-                    "type": "file",
-                    "path": "org.kde.knetwalk.appdata.xml"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/knetwalk-19.04.0.tar.xz",
+                    "sha256": "84b03a6b7c3ff6634402b016089a54ed0116ace221fdfb04ad3d2a8997f68b4b"
                 }
-            ],
-            "post-install": [
-                "install -D -m 644 org.kde.knetwalk.appdata.xml /app/share/appdata/org.kde.knetwalk.appdata.xml"
-                ]
+            ]
         }
     ]
 }
