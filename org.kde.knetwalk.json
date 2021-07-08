@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/libkdegames-21.04.2.tar.xz",
-                    "sha256": "0d52eadca34dc6a9685535e3ca97c618142696c292a20c28b0b315a87cda33d8"
+                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/libkdegames-21.04.3.tar.xz",
+                    "sha256": "779778724891e6f4228b02fd246c5948968d1562adae1708ac69cf8f548ee605"
                 } 
             ]
         },
@@ -31,8 +31,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.2/src/knetwalk-21.04.2.tar.xz",
-                    "sha256": "dc8acf881985a6d7afdbaed45773400477714f510717b1b03c4f735df0c3df35"
+                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/knetwalk-21.04.3.tar.xz",
+                    "sha256": "ca16fa179694940af3b96266e55a6f091bfdc731d2a92aba5a64a93bfbd208ab"
                 }
             ]
         }
