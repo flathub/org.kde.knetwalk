@@ -33,7 +33,11 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.08.0/src/knetwalk-21.08.0.tar.xz",
                     "sha256": "c23905a33d9a09a69d366c7f83077c8ae7386c574c8160715bb7968131d44d36"
-                }
+                },
+                {
+                    "type": "patch",
+                    "path": "appdata.patch"
+                }                 
             ]
         }
     ]
