@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/knetwalk-22.04.2.tar.xz",
-                    "sha256": "305ed223658a24bee10736113e9667015b4f14ff433ae7c14add9c628f9d9335",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/knetwalk-22.04.3.tar.xz",
+                    "sha256": "f7dd1844e39011db11a4145bdff97231e57810e2d523489cd7fd584f40bf2b70",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
